@@ -1,0 +1,13 @@
+html  {
+    font-size: 22px;
+}
+body {
+    background-color: whitesmoke;
+    color: black;
+}
+table, tr, th, td, caption{
+    border: 1px solid green;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
